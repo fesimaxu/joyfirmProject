@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1f4fa773-4aac-4be0-ba52-5798bd3c23eb",
+    "firstName": "uchenna",
+    "lastName": "igwe",
+    "email": "uchenna@gmail.com",
+    "password": "$2b$10$s2vCbgscVqVYb4hgl.j/ze6n0F/GPkUzb6DvOt4Ms3MEGPC16kGFy",
+    "gender": "male",
+    "createdAt": "2023-06-29T20:41:51.398Z",
+    "updatedAt": "2023-06-29T20:41:51.398Z"
+  },
+  {
+    "id": "1395210b-fdcf-43f6-b92b-1a6762112881",
+    "firstName": "uchenna",
+    "lastName": "igwe",
+    "email": "uchenna30@gmail.com",
+    "password": "$2b$10$9REcGdmGU9m4D.QqRdWX.u3g4eDoB8rfMSGWr5P.8P4MoAF7SN/Gi",
+    "gender": "male",
+    "createdAt": "2023-06-29T22:05:48.489Z",
+    "updatedAt": "2023-06-29T22:05:48.489Z"
+  },
+  {
+    "id": "7150dc0d-1ea1-47da-a2f0-882698f30314",
+    "firstName": "ikechukwu",
+    "lastName": "williams",
+    "email": "ikeW@gmail.com",
+    "password": "$2b$10$D9u0dahJae5SbD8tD9p.QeVsJBaqVzpmzrUqFqABKuHNGI7qE8c96",
+    "gender": "male",
+    "createdAt": "2023-07-01T01:16:17.924Z",
+    "updatedAt": "2023-07-01T01:16:17.924Z"
+  }
+]
